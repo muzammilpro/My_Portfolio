@@ -14,7 +14,7 @@ export const educations = [
   {
     id: 3,
     title: "Bachelor in computer science",
-    duration: "2021 - 2025",
+    duration: "2021 - Continue",
     institution: "Govt postgraduate college of science,Faisalabad",
   }
 ]
