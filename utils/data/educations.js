@@ -3,7 +3,7 @@ export const educations = [
     id: 1,
     title: "Matric",
     duration: "2017 - 2019",
-    institution: "Govt M.C higher secondary school",
+    institution: "Govt M.C higher secondary school,Faisalabad",
   },
   {
     id: 2,
